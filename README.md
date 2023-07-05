@@ -13,7 +13,8 @@ In diesem Repository befinden sich Selbstlern- und Übungsmaterialien für die �
 2. Kontrollstrukturen und Schleifen
 3. Objekte / Klassen und Arbeit mit Dateien
 4. Modularisierung und Textmanipulation mit regulären Ausdrücken
-5. ...
+5. Arbeit mit Textdaten (Vertiefung / Kombination vorheriger Einheiten)
+6. Texte im Vektorraum
 
 ## Voraussetzungen
 
